@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:androdi="http://schemas.android.com/apk/res/android"
+    androdi:shape="oval">
+    <size androdi:height="20dp"
+        androdi:width="20dp"/>
+    <stroke androdi:color="@color/colorPrimary"
+        androdi:width="1px"
+        androdi:dashGap="2px"
+        androdi:dashWidth="2px"
+        />
+    <solid androdi:color="@android:color/holo_red_dark"/>
+    <gradient androdi:type="linear"
+        androdi:gradientRadius="10dp"
+        androdi:centerColor="@android:color/holo_green_light"
+        androdi:startColor="#FFFFFF"
+        androdi:endColor="@android:color/holo_red_light"
+        />
+    <corners androdi:radius="2dp"/>
+</shape>

@@ -63,7 +63,7 @@ public class CanvasView extends View {
 
         mPaint.setColor(Color.LTGRAY);
         mPaint.setStyle(Paint.Style.STROKE);
-        canvas.drawCircle(450,450,200,mPaint);
+        canvas.drawCircle(500,500,300,mPaint);
 
         mPaint.setColor(Color.MAGENTA);
         rectf = new RectF(100,100,450,300);
