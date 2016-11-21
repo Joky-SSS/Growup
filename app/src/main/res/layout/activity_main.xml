@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF"
     tools:context="com.joky.growup.MainActivity">
-    <com.joky.growup.CanvasView
+    <com.joky.growup.view.CanvasView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-    <com.joky.growup.RadarView
+    <com.joky.growup.view.RadarView
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:visibility="gone"

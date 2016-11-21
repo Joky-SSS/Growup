@@ -1,4 +1,4 @@
-package com.joky.growup;
+package com.joky.growup.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
