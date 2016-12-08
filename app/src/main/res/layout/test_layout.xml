@@ -7,6 +7,10 @@
     <com.joky.growup.view.CustomView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:visibility="gone"
         android:background="#5165d7"/>
+    <com.joky.growup.view.CircleProgressView
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
 
 </LinearLayout>
